@@ -5,7 +5,7 @@ Find the shortest route to the selected city.
 "#" represents a two-way road, which takes 1 minute to pass.
 "." represents an empty field, through which you cannot drive.
 "*" (asterisk) represents a city, which acts as a road but also specifies the coordinates of the city.
-Letters represent the names of cities, and "*" is always placed next to the first or last letter of the city's name.
+Letters represent the names of cities, and "*" (asterisk) is always placed next to the first or last letter of the city's name.
 
 The first line of input contains the dimensions of the map.
 Then we load the map.

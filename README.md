@@ -2,21 +2,20 @@
 
 <p>Find the shortest route to the selected city.</p>
 
-<p>"#" represents a two-way road, which takes 1 minute to pass.
-"." represents an empty field, through which you cannot drive.
-"*" (asterisk) represents a city, which acts as a road but also specifies the coordinates of the city.
-Letters represent the names of cities, and "*" (asterisk) is always placed next to the first or last letter of the city's name.</p>
+<p>"#" represents a two-way road, which takes 1 minute to pass.</p>
+<p>"." represents an empty field, through which you cannot drive.</p>
+<p>"*" (asterisk) represents a city, which acts as a road but also specifies the coordinates of the city.</p>
+<p>Letters represent the names of cities, and "*" (asterisk) is always placed next to the first or last letter of the city's name.</p>
 
-The first line of input contains the dimensions of the map.
-Then we load the map.
+<p>The first line of input contains the dimensions of the map. Then we load the map. 
 Next, we load "n" number of airlines, which are one-way connections.
 In the following "n" lines, the pattern is [source] [destination] [time].
-After the airlines, we load the number of questions.
+After the airlines, we load the number of questions. </p>
 
-[source] [destination] [1] represents a question about the fastest time to get from the source to the destination.
-[source] [destination] [0] represents a question about the fastest time and all the cities visited during the travel.
+<p>[source] [destination] [1] represents a question about the fastest time to get from the source to the destination.</p>
+<p>[source] [destination] [0] represents a question about the fastest time and all the cities visited during the travel.</p>
 
-examples of inputs: 
+<p>examples of inputs: </p>
 
 1st: 
 

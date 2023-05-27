@@ -188,11 +188,11 @@ DD CC 1
 14 CC
 4
 ```
-# Author
+## Author
 MikyTuberr / Piotr
 
 Email: pio1342@gmail.com
-# Bug Reports
+## Bug Reports
 Please contact pio1342@gmail.com to repurt any bugs errors, or typos
-# License
+## License
 This project is licensed under the Apache License Version 2.0, See the LICENSE file for more information.

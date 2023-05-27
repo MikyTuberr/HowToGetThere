@@ -1,3 +1,6 @@
+
+# JakDojade / How to get there
+```
 Find the shortest route to the selected city.
 
 "#" represents a two-way road, which takes 1 minute to pass.
@@ -14,11 +17,11 @@ After the airlines, we load the number of questions.
 [source] [destination] [0] represents a question about the fastest time and all the cities visited during the travel.
 
 examples of inputs:
+```
+## 1st:
 
-1st:
-
-INPUT:
-
+### INPUT:
+```
 20 20
 
 .........GDANSK.....
@@ -42,25 +45,25 @@ INPUT:
 ........#.KRAKOW..#.
 ........###########.
 
+
 2
 KRAKOW GDANSK 10
 WARSZAWA WROCLAW 3
-
 3
 KRAKOW GDANSK 1
 WARSZAWA WROCLAW 1
 SZCZECIN KRAKOW 1
-
-OUTPUT:
-
+```
+### OUTPUT:
+```
 10
 3
 29 KIELCE
+```
+## 2nd:
 
-2nd:
-
-INPUT:
-
+### INPUT:
+```
 33 23
 
 *A.*W.........Y**Z..........X*.V*
@@ -89,7 +92,6 @@ INPUT:
 
 0
 45
-
 A V 1
 V A 1
 W X 1
@@ -135,9 +137,9 @@ CC DD 1
 DD AA 1
 DD BB 1
 DD CC 1
-
-OUTPUT:
-
+```
+## OUTPUT:
+```
 76 B C D E F G H I J K L M N O P Q R S T U
 76 U T S R Q P O N M L K J I H G F E D C B
 66
@@ -183,3 +185,4 @@ OUTPUT:
 18 CC BB
 14 CC
 4
+```

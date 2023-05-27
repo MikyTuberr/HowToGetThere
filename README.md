@@ -15,8 +15,6 @@ After the airlines, we load the number of questions.
 
 [source] [destination] [1] represents a question about the fastest time to get from the source to the destination.
 [source] [destination] [0] represents a question about the fastest time and all the cities visited during the travel.
-
-examples of inputs:
 ```
 ## 1st:
 

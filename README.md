@@ -1,22 +1,24 @@
 
 # JakDojade / How to get there
-```
-Find the shortest route to the selected city.
 
-"#" represents a two-way road, which takes 1 minute to pass.
-"." represents an empty field, through which you cannot drive.
-"*" (asterisk) represents a city, which acts as a road but also specifies the coordinates of the city.
-Letters represent the names of cities, and "*" (asterisk) is always placed next to the first or last letter of the city's name.
+##### Find the shortest route to the selected city.
 
-The first line of input contains the dimensions of the map. Then we load the map. 
-Next, we load "n" number of airlines, which are one-way connections.
-In the following "n" lines, the pattern is [source] [destination] [time].
-After the airlines, we load the number of questions.
+# Notation
+#### "#" represents a two-way road, which takes 1 minute to pass.
+#### "." represents an empty field, through which you cannot drive.
+#### "*" (asterisk) represents a city, which acts as a road but also specifies the coordinates of the city.
+#### Letters represent the names of cities, and "*" (asterisk) is always placed next to the first or last letter of the city's name.
 
-[source] [destination] [1] represents a question about the fastest time to get from the source to the destination.
-[source] [destination] [0] represents a question about the fastest time and all the cities visited during the travel.
-```
-# EXAMPLES OF INPUTS
+# Input pattern
+ The first line of input contains the dimensions of the map. Then we load the map. 
+ Next, we load "n" number of airlines, which are one-way connections.
+ In the following "n" lines, the pattern is [source] [destination] [time].
+ After the airlines, we load the number of questions.
+
+#### [source] [destination] [1] represents a question about the fastest time to get from the source to the destination.
+#### [source] [destination] [0] represents a question about the fastest time and all the cities visited during the travel.
+
+# Examples of inputs
 
 ## 1st:
 

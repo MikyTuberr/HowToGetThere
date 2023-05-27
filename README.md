@@ -1,4 +1,4 @@
-### JakDojade / How to get there
+# JakDojade / How to get there
 
 <p>Find the shortest route to the selected city.</p>
 

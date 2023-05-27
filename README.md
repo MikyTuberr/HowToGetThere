@@ -20,7 +20,7 @@ After the airlines, we load the number of questions.
 
 ## 1st:
 
-### INPUT:
+#### INPUT:
 ```
 20 20
 
@@ -54,7 +54,7 @@ KRAKOW GDANSK 1
 WARSZAWA WROCLAW 1
 SZCZECIN KRAKOW 1
 ```
-### OUTPUT:
+#### OUTPUT:
 ```
 10
 3
@@ -62,7 +62,7 @@ SZCZECIN KRAKOW 1
 ```
 ## 2nd:
 
-### INPUT:
+#### INPUT:
 ```
 33 23
 
@@ -138,7 +138,7 @@ DD AA 1
 DD BB 1
 DD CC 1
 ```
-## OUTPUT:
+#### OUTPUT:
 ```
 76 B C D E F G H I J K L M N O P Q R S T U
 76 U T S R Q P O N M L K J I H G F E D C B

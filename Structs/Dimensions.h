@@ -1,0 +1,6 @@
+#ifndef HOWTOGETTHERE_DIMENSIONS_H
+#define HOWTOGETTHERE_DIMENSIONS_H
+struct dimensions {
+    int h, w;
+};
+#endif //HOWTOGETTHERE_DIMENSIONS_H
